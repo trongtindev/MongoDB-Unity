@@ -1,0 +1,25 @@
+{
+  "name": "com.trongtindev.mongodbunity",
+  "displayName": "MongoDB Unity",
+  "version": "3.0.0",
+  "unity": "2018.4",
+  "author": {
+    "name": "trongtindev"
+  },
+  "description": "MongoDB Unity is a lightweight integration of the MongoDB .NET Driver for Unity game development. This package enables developers to easily connect and interact with MongoDB databases from within Unity, allowing for efficient data storage and retrieval for games and applications.",
+  "license": "MIT",
+  "keywords": [
+    "Mongodb",
+    "Database",
+    "Networking",
+    "Editor"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Example",
+      "description": "MongoDB Unity Samples",
+      "path": "Samples~/Basic"
+    }
+  ],
+  "dependencies": {}
+}
